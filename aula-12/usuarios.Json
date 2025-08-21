@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "ettham martinez",
+        "idade": 17,
+        "email": "etthamartinez24@gmail.com",
+        "salario": 50.300
+    },
+    {
+        "id": 2,
+        "name": "pedros santos",
+        "idade": 20,
+        "email": "salada50@gmail.com",
+        "salario": 70.590
+    }
+]
